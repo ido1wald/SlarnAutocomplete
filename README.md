@@ -57,7 +57,7 @@ If you want to change the default bottom border color and animation copy/paste t
 <slarn-autocomplete 
   [configurtion]="myConfig" 
   (onItemSelected)="doSomething($event)">
-</slarn-automplete>
+</slarn-autocomplete>
 ```
 
 # Usage
